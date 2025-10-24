@@ -1,0 +1,56 @@
+ros-rolling-play-motion-builder-msgs (1.4.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Wed, 01 Oct 2025 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.3.0-1bookworm) bookworm; urgency=high
+
+  * Update License
+  * Port play_motion_builder_msgs
+  * Ignore packages
+  * Contributors: Noel Jimenez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Wed, 01 Oct 2025 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Tue, 14 May 2024 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Wed, 15 Nov 2023 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Thu, 05 Aug 2021 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.0.2-1bookworm) bookworm; urgency=high
+
+  * Fix dependencies
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Thu, 22 Oct 2020 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.0.1-1bookworm) bookworm; urgency=high
+
+  * REname projecto to comply with naming scheme
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Wed, 21 Oct 2020 00:00:00 -0000
+
+ros-rolling-play-motion-builder-msgs (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Documentation
+  * Initial commit
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Thu, 15 Oct 2020 00:00:00 -0000
+
+
