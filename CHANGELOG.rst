@@ -2,6 +2,11 @@
 Changelog for package play_motion_builder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.1 (2026-01-09)
+------------------
+* Fix rmw_qos_profile_t deprecation
+* Contributors: Noel Jimenez
+
 1.4.0 (2025-10-01)
 ------------------
 * Fix ament_auto warning about headers install destination
