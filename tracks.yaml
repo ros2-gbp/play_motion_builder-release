@@ -104,4 +104,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/pal-robotics/play_motion_builder.git
-    version: :{auto}
+    version: 1.4.1
+    version_saved: :{auto}
